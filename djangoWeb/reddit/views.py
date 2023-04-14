@@ -2,10 +2,10 @@ from django.shortcuts import render
 import praw
 
 reddit = praw.Reddit(
-        client_id="_gQ8_dtZvjsTfhLRFS_6Mg",
+        client_id="_gQ8_dtZvjsTfhLRFS_6Mag",
         client_secret="2K82int92L6912UFfutbF6XmdIM_cg",
         username = "MeowForMeBish",
-        password = "bonkbonk123",
+        password = "no",
         user_agent = "meow"
         )
 
