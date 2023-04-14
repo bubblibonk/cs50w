@@ -31,7 +31,9 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'reddit',
     'newyear',
+    'tasks',
     'meow',
     'django.contrib.admin',
     'django.contrib.auth',
